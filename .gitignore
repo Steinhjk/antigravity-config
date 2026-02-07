@@ -1,0 +1,15 @@
+# Ignorar carpetas de proyectos (tienen su propio git)
+yogui_site/
+sincuentoco/
+porn-index/
+
+# Ignorar archivos temporales o innecesarios
+.DS_Store
+Thumbs.db
+node_modules/
+.env
+
+# Solo queremos trackear las reglas y config global
+!/.clauderules
+!/gemini.md
+!.claude/

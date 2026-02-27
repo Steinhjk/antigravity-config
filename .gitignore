@@ -1,7 +1,7 @@
 # Ignorar carpetas de proyectos (tienen su propio git)
 yogui_site/
 sincuentoco/
-porn-index/
+index/
 
 # Ignorar archivos temporales o innecesarios
 .DS_Store
@@ -13,3 +13,5 @@ node_modules/
 !/.clauderules
 !/gemini.md
 !.claude/
+
+nul
